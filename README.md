@@ -15,7 +15,8 @@ This PowerShell script allows you to scan domains using the VirusTotal API and s
 - **Detailed Results**: Saves results including the number of malicious vendors, community score, creation date, last analysis date, and a permalink to VirusTotal.
 
 ## Usage
-1. Enter your VirusTotal API key.
-2. Browse and select the input CSV file containing the domains to scan.
-3. Browse and select the output CSV file to save the results.
-4. Click OK to start the scanning process.
+1. Download and run the PowerShell file.
+2. Enter your VirusTotal API key.
+3. Browse and select the input CSV file containing the domains to scan.
+4. Browse and select the output CSV file to save the results.
+5. Click OK to start the scanning process.
